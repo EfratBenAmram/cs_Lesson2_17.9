@@ -1,0 +1,7 @@
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\obj\Debug\Lesson1_10.9.csproj.AssemblyReference.cache
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\obj\Debug\Lesson1_10.9.csproj.CoreCompileInputs.cache
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\bin\Debug\Lesson1_10.9.exe.config
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\bin\Debug\Lesson1_10.9.exe
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\bin\Debug\Lesson1_10.9.pdb
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\obj\Debug\Lesson1_10.9.exe
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\Lesson2_17.9\Lesson2_17.9\obj\Debug\Lesson1_10.9.pdb
